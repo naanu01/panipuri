@@ -1,0 +1,3 @@
+[submodule "chocolates"]
+	path = chocolates
+	url = https://github.com/naanu01/chocolates.git
